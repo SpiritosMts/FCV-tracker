@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112707544398",
+    "project_id": "fcv-trucker",
+    "storage_bucket": "fcv-trucker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112707544398:android:b4e0325b144851901eaa1f",
+        "android_client_info": {
+          "package_name": "com.example.fcv_trucker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112707544398-a2jrus0i7r1dvhqjebrg30jq1f2j2bmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7ir-ssjX9sNXJjycySbHGhuT62o4J70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112707544398-a2jrus0i7r1dvhqjebrg30jq1f2j2bmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
